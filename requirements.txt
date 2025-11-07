@@ -1,0 +1,4 @@
+aiohttp
+aiosqlite
+python-dateutil
+beautifulsoup4

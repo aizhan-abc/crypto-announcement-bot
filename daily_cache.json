@@ -1,0 +1,348 @@
+{
+  "2025-10-20": [
+    {
+      "exchange": "BYBIT",
+      "title": "Bybit Launchpool: Stake BNB, 0G or MNT to Earn a Share of 100,000 0G!",
+      "url": "",
+      "pair": "Bybit",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "[Livestream] DoubleZero listing goes live!",
+      "url": "",
+      "pair": "[Livestream]",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "Bybit UTA Function Optimization: Manual Coin Borrowing Will Be Launched Soon",
+      "url": "",
+      "pair": "Bybit",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "Bybit to list 21 MNT trading pairs on Spot",
+      "url": "",
+      "pair": "Bybit",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "Delisting of KUSDT Perpetual Contract",
+      "url": "",
+      "pair": "Delisting",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "1 new assets launched on Bybit Alpha！",
+      "url": "",
+      "pair": "1",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "New Listing :  ZBTUSDT Perpetual Contract, with up to 50x leverage",
+      "url": "",
+      "pair": "New",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "New Listing : EVAAUSDT Perpetual Contract in Innovation Zone, with up to 25x leverage",
+      "url": "",
+      "pair": "New",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "New Listing : HANAUSDT Perpetual Contract in Innovation Zone, with up to 25x leverage",
+      "url": "",
+      "pair": "New",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "New Listing : CLOUSDT Perpetual Contract in Innovation Zone, with up to 25x leverage",
+      "url": "",
+      "pair": "New",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "RVVUSDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603840127",
+      "pair": "RVVUSDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "RIVERUSDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603840102",
+      "pair": "RIVERUSDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "LABUSDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603840101",
+      "pair": "LABUSDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "ZBTUSDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603840086",
+      "pair": "ZBTUSDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "ZECUSDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603839990",
+      "pair": "ZECUSDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "GIGGLEUSDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603839984",
+      "pair": "GIGGLEUSDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "TAKEUSDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603839966",
+      "pair": "TAKEUSDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "4USDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603839921",
+      "pair": "4USDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing"
+    }
+  ],
+  "2025-10-19": [
+    {
+      "exchange": "BYBIT",
+      "title": "Bybit Launchpool: Stake BNB, 0G or MNT to Earn a Share of 100,000 0G!",
+      "url": "",
+      "pair": "Bybit",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:36"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "[Livestream] DoubleZero listing goes live!",
+      "url": "",
+      "pair": "[Livestream]",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:37"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "Bybit UTA Function Optimization: Manual Coin Borrowing Will Be Launched Soon",
+      "url": "",
+      "pair": "Bybit",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:37"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "Bybit to list 21 MNT trading pairs on Spot",
+      "url": "",
+      "pair": "Bybit",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:37"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "Delisting of KUSDT Perpetual Contract",
+      "url": "",
+      "pair": "Delisting",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:37"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "1 new assets launched on Bybit Alpha！",
+      "url": "",
+      "pair": "1",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:38"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "New Listing :  ZBTUSDT Perpetual Contract, with up to 50x leverage",
+      "url": "",
+      "pair": "New",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:41"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "New Listing : EVAAUSDT Perpetual Contract in Innovation Zone, with up to 25x leverage",
+      "url": "",
+      "pair": "New",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:41"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "New Listing : HANAUSDT Perpetual Contract in Innovation Zone, with up to 25x leverage",
+      "url": "",
+      "pair": "New",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:41"
+    },
+    {
+      "exchange": "BYBIT",
+      "title": "New Listing : CLOUSDT Perpetual Contract in Innovation Zone, with up to 25x leverage",
+      "url": "",
+      "pair": "New",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:42"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "RVVUSDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603840127",
+      "pair": "RVVUSDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:45"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "RIVERUSDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603840102",
+      "pair": "RIVERUSDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:46"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "LABUSDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603840101",
+      "pair": "LABUSDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:49"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "ZBTUSDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603840086",
+      "pair": "ZBTUSDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:49"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "ZECUSDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603839990",
+      "pair": "ZECUSDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:49"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "GIGGLEUSDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603839984",
+      "pair": "GIGGLEUSDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:52"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "TAKEUSDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603839966",
+      "pair": "TAKEUSDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:52"
+    },
+    {
+      "exchange": "BITGET",
+      "title": "4USDT now launched for futures trading and trading bots",
+      "url": "https://www.bitget.com/en/support/articles/12560603839921",
+      "pair": "4USDT",
+      "symbol": "",
+      "time": "N/A",
+      "kind": "listing",
+      "found_at": "2025-10-19T08:48:53"
+    }
+  ]
+}
