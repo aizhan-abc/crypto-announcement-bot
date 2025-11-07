@@ -1,4 +1,4 @@
-# bitget_announcement.py
+# bitget.py
 import time
 import requests
 import json
